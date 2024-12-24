@@ -24,7 +24,7 @@ It has a dynamic map but doesn't have the pretty map display at the end game. Lo
 I also added some toys to 'pretty' up the text: colors, text formatting, and sleep timers to try and smooth out the text display.
 
 
-In console / terminal, cd into this directory, then 'python3 parts.py' to start the game.
+Download, and then in console / terminal, cd into the parts directory, then 'python3 parts.py' to start the game.
 
 
 Have fun.
